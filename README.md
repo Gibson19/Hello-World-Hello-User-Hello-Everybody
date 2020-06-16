@@ -1,9 +1,9 @@
 # Hello-World-Hello-User-Hello-Everybody
-_________________________________________
+
 This is my first C# Console application. It is not for distribution and I am not accepting pull requests
 
 ## Requirements:
-_________________________________________
+
 App must display Hello World on screen
 
 App must be written in C#
