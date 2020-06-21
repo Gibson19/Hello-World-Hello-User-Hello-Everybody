@@ -1,0 +1,6 @@
+/Users/grachella/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/bin/Debug/HelloWorldUserEB.exe
+/Users/grachella/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/bin/Debug/HelloWorldUserEB.pdb
+/Users/grachella/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/obj/Debug/HelloWorldUserEB.csprojAssemblyReference.cache
+/Users/grachella/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/obj/Debug/HelloWorldUserEB.csproj.CoreCompileInputs.cache
+/Users/grachella/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/obj/Debug/HelloWorldUserEB.exe
+/Users/grachella/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/obj/Debug/HelloWorldUserEB.pdb

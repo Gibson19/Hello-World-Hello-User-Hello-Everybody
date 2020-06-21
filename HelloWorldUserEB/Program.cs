@@ -7,6 +7,7 @@ namespace HelloWorldUserEB
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            while (Console.ReadKey().Key != ConsoleKey.Enter) { }
         }
     }
 }
